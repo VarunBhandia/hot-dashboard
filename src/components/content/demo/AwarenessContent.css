@@ -20,7 +20,7 @@
 /** External widgets **/
 .widget-container {
     display       : flex;
-    height: 460px;
+    height: auto !important;
     margin: 40px 20px 0px;
 }
 .widget-text{
